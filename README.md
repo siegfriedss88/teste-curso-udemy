@@ -1,37 +1,77 @@
-## Welcome to GitHub Pages
+FERNANDO LAURENTINO DE LIMA
 
-You can use the [editor on GitHub](https://github.com/siegfriedss88/teste-curso-udemy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+    
+ 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+            Nascimento: 20/09/1989
+            Solteiro / Não fumante 
+            Sem filhos / Habilitação categoria A / B 
+            Contato: (11) 4169-9110 / (11) 9 9136-9852
 
-### Markdown
+            
+EDUCAÇÃO
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+            Cursando Gestão em tecnologia da informação 
+            Universidade Paulista EaD
 
-```markdown
-Syntax highlighted code block
+            
+OBJETIVO
+ 
+            Vaga disponivel na empresa  
 
-# Header 1
-## Header 2
-### Header 3
+            
+EXPERIÊNCIA
 
-- Bulleted
-- List
+            
+Cia Bras de Distribuição EXTRA
 
-1. Numbered
-2. List
+            
+            Hipermercado Extra  primavera
+            Função: Operador de Hipermercados
+            Período: Out / 2008 à Dez / 2010
+            Reposição, estoque e atendimento.
 
-**Bold** and _Italic_ and `Code` text
+            
+Auto Posto Portal da Aldeia LTDA
 
-[Link](url) and ![Image](src)
-```
+            Função: Frentista
+            Período: Nov / 2014 à Fev / 2015 
+            Vendas e Atendimento.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+            
+Auto Posto Portal da Aldeia LTDA
+ 
+            Função: Auxiliar Administrativo
+            Período: Mar / 2015 à Maio / 2016
+            Fechamento  de  cartões; 
+            contagem  de  estoque; compras;
+            Notas fiscais; faturamentos; 
+            rotina administrativa de um posto de gasolina + condomínio.
 
-### Jekyll Themes
+            
+EXTRA CURRICULAR
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/siegfriedss88/teste-curso-udemy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+            
+CAMP - Centro de Aperfeiçoamento Multi Pedagógico
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+            Curso de inserção e capacitação para o mercado de trabalho, 
+            visando desenvolver noções administrativas e de atendimento.
+
+            
+Computer Training Brasil
+
+            Informática - 140 horas
+            Word, Excel, Power Point, Internet, Digitação, Técnicas Administrativas.
+
+            
+ABED - Associação Brasileira de Educação à Distância
+
+            Frentista de Posto - 30 horas
+            Atendimento ao Cliente; cuidados no posto; técnicas de™ venda; 
+            equipamentos e instrumentos de trabalho; produtos;
+            Riscos químicos; prevenção a acidentes de trabalho.
+            
+            YOUTUBE
+            
+            
